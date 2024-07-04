@@ -1,6 +1,6 @@
 template-file-path: cfn-template.yaml
 parameters: {}
 tags:
-  environment: test
+  environment: demo
   repo: public
   synced: true

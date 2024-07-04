@@ -1,8 +1,9 @@
 AWSTemplateFormatVersion: "2010-09-09"
 
 Resources:
-  NullResource:
-    Type: AWS::CloudFormation::WaitConditionHandle
 
-  MyTopic:
+  #NullResource:
+  #   Type: AWS::CloudFormation::WaitConditionHandle
+  
+  MyTopic01:
     Type: AWS::SNS::Topic
