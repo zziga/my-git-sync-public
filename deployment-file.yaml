@@ -3,3 +3,4 @@ parameters: {}
 tags:
   environment: test
   repo: public
+  synced: true
